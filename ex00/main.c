@@ -6,11 +6,11 @@
 /*   By: codephenix2 <marvin@42.fr>                 +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/10 16:44:51 by codephenix2       #+#    #+#             */
-/*   Updated: 2025/04/10 16:53:48 by codephenix2      ###   ########.fr       */
+/*   Updated: 2025/04/11 09:28:28 by codephenix2      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	rush(int x, int y);
+void	rush(int x, int y);
 
 int	main(void)
 {
