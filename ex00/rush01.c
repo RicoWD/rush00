@@ -14,20 +14,42 @@ void	ft_putchar(char c);
 
 void	rush(int x, int y)
 {
-	int	ix;
+	int ix;
 	int iy;
 
 	ix = 0;
 	iy = 0;
-	while (ix != x-1 && iy != y-1)
+	while (ix != x - 1 && iy != y - 1)
 	{
-		if (ix == 0 && iy == 0)
-			ft_putchar('/');
-		
-		if (ix == x-1 && iy == 0)
-			ft_putchar('\');
-		
-		if(
+		while (ix != x - 1 && iy == 0)
+		{
+			if (ix == 0 && iy == 0)
+				ft_putchar('/');
 
+			if (ix == x - 1 && iy == 0)
+				ft_putchar(92);
+			else
+				ft_putchar('*');
+			ix++;
+		}
+		while (ix != x - 1 && iy > y - 1)
+		{
+			if (ix == 0 && ix == x - 1)
+				ft_putchar('*');
+			else
+				ft_putchar(' ');
+			ix++;
+		}
+		while (ix != x - 1 && iy == y - 1)
+		{
+			if (ix == 0 && iy == y - 1)
+				ft_putchar(92);
+			if (iy == x - 1 && iy == y - 1)
+				ft_putchar('/');
+			else
+				ft_putchar('*');
+			ix++;
+		}
+		iy++;
 	}
 }
