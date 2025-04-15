@@ -6,7 +6,7 @@
 /*   By: codephenix <marvin@42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/10 16:26:57 by codephenix        #+#    #+#             */
-/*   Updated: 2025/04/10 16:56:07 by codephenix       ###   ########.fr       */
+/*   Updated: 2025/04/15 12:21:59 by codephenix       ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,20 @@ void	ft_putchar(char c);
 
 void	rush(int x, int y)
 {
-	while (y > 1)
+	int	ix;
+	int iy;
+
+	ix = 0;
+	iy = 0;
+	while (ix != x-1 && iy != y-1)
 	{
-		ft_putchar('\n');
+		if (ix == 0 && iy == 0)
+			ft_putchar('/');
+		
+		if (ix == x-1 && iy == 0)
+			ft_putchar('\');
+		
+		if(
 
 	}
 }
