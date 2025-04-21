@@ -49,7 +49,7 @@ Relis-toi afin de détecter les erreurs d'inattention.
 Lis attentivement les messages d'erreur de la Norminette et de compilation (ils t'indiquent toujours l'emplacement du problème à corriger).
 Trouve le temps de mettre de côté WordPress le matin et d'investir ce moment dans le C. Je ne serai pas toujours là pour te le rappeler à 12h pile ! WordPress ne t'apportera rien pour la piscine.
 
-### William (wlegitan)
+### William (wneto)
 
 #### Bilan
 Un très bon investissement, presque constant, alors que tu n'avais pas encore toutes les bases de tes partenaires.
