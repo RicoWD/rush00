@@ -66,3 +66,7 @@ Le point le plus important, de façon indéniable : il faut que tu te mettes à 
 Ce fut un grand plaisir de partager ces instants avec vous, et j'espère que l'autonomie dont vous avez fait preuve pendant ce rush vous amènera à voler de vos propres ailes.
 
 Je suis très fier de vous !
+
+Merci senpai,pour ton investissement,ton temps,(abus de pouvoir sur les points en moins).
+
+On est fière de toi 👍
